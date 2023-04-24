@@ -129,5 +129,4 @@ Include confusion matrix here
 </br>
 </br>
 ## RESULT
-</br>
-</br>
+Thus, transfer Learning for CIFAR-10 dataset classification using VGG-19 architecture is successfully implemented.
