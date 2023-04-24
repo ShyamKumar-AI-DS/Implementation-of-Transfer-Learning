@@ -2,10 +2,6 @@
 ## Aim
 To Implement Transfer Learning for CIFAR-10 dataset classification using VGG-19 architecture.
 ## Problem Statement and Dataset
-</br>
-</br>
-</br>
-
 ## DESIGN STEPS
 ### STEP 1:
 Import tensorflow and preprocessing libraries.
