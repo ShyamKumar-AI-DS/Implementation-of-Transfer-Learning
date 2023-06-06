@@ -106,13 +106,16 @@ print(classification_report(y_test,x_test_predictions))
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![o](dl1.png)
-![o](dl2.png)
+![dl1](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/4b4d081d-f43c-41d4-8906-f3c376741b6d)
+
+![dl2](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/70fbd9a6-f531-4f40-9f39-b2cd697b9113)
+
 ### Classification Report:
-![o](dl3.png)
+![dl3](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/87e4a068-20c0-4840-a760-d2b60c9be699)
 
 ### Confusion Matrix:
-![o](dl4.png)
+![dl4](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/979162dd-072a-4c00-a7bf-821032f41cbe)
+
 
 ## Conculsion:
 * We got an Accuracy of 60% with this model.There could be several reasons for not achieving higher accuracy. Here are a few possible explanations:
