@@ -7,7 +7,9 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
 
 Here are the classes in the dataset, as well as 10 random images from each:
-https://user-images.githubusercontent.com/94219582/237885241-3b5490e5-300b-4cf7-8556-6e4198e10acd.png
+
+![image](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/5b732296-e482-44a7-be23-17e6c973c79d)
+
 
 VGG19 is a variant of the VGG model which in short consists of 19 layers (16 convolution layers, 3 Fully connected layer, 5 MaxPool layers and 1 SoftMax layer).
 
