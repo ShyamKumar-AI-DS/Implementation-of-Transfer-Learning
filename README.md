@@ -113,10 +113,9 @@ print(classification_report(y_test,x_test_predictions))
 ![dl2](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/70fbd9a6-f531-4f40-9f39-b2cd697b9113)
 
 ### Classification Report:
-![dl3](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/87e4a068-20c0-4840-a760-d2b60c9be699)
-
-### Confusion Matrix:
 ![dl4](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/979162dd-072a-4c00-a7bf-821032f41cbe)
+### Confusion Matrix:
+![dl3](https://github.com/ShyamKumar-AI-DS/Implementation-of-Transfer-Learning/assets/93427182/87e4a068-20c0-4840-a760-d2b60c9be699)
 
 
 ## Conculsion:
